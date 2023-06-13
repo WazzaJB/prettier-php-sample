@@ -1,0 +1,13 @@
+{
+    "name": "@wazzajb/prettier-php-sample",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "prettier": "prettier --write ./example.php"
+    },
+    "devDependencies": {
+      "@prettier/plugin-php": "^0.19.6",
+      "prettier": "^2.8.7"
+    }
+  }
+  
